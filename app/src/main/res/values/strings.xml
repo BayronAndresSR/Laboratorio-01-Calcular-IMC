@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Calcular IMC</string>
+
+    //inout
+    <string name="title_app">Calcular IMC</string>
+    <string name="imc_image">IMC</string>
+    <string name="label_form">Ingrese los siguientes datos</string>
+    <string name="input_name">Nombre</string>
+    <string name="input_weight">Peso</string>
+    <string name="input_height">Altura</string>
+    <string name="button_calculate">Calcular</string>
+
+
+    <string name="detail_name">Hola John</string>
+    <string name="detail_recommendation">Recomendacion</string>
+
+
+    <string name="imc_0">Infrapeso: Delgadez Severa, por favor coma mas</string>
+    <string name="imc_1">Infrapeso: Delgadez moderada, por favor mete más para al cald</string>
+    <string name="imc_2">Infrapeso: Delgadez aceptable, esta bien</string>
+    <string name="imc_3">Peso Normal, super mantente asi</string>
+    <string name="imc_4">Sobrepeso, aguanta bajale un poco</string>
+    <string name="imc_5">Obeso: Tipo I, te dije</string>
+    <string name="imc_6">Obeso: Tipo III, mister trigliceri</string>
+    <string name="imc_7">No hay recomendaciones</string>
+
+</resources>
